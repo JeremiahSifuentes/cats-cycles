@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JeremiahSifuentes/ReCycle-of-SA/static/css/main.fc8c6d48.css",
+    "main.js": "/JeremiahSifuentes/ReCycle-of-SA/static/js/main.de7e4252.js",
+    "static/js/787.5b943bb6.chunk.js": "/JeremiahSifuentes/ReCycle-of-SA/static/js/787.5b943bb6.chunk.js",
+    "index.html": "/JeremiahSifuentes/ReCycle-of-SA/index.html",
+    "main.fc8c6d48.css.map": "/JeremiahSifuentes/ReCycle-of-SA/static/css/main.fc8c6d48.css.map",
+    "main.de7e4252.js.map": "/JeremiahSifuentes/ReCycle-of-SA/static/js/main.de7e4252.js.map",
+    "787.5b943bb6.chunk.js.map": "/JeremiahSifuentes/ReCycle-of-SA/static/js/787.5b943bb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8c6d48.css",
+    "static/js/main.de7e4252.js"
+  ]
+}
