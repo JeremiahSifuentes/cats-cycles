@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReCycle-of-SA/static/css/main.fc8c6d48.css",
-    "main.js": "/ReCycle-of-SA/static/js/main.9660108b.js",
-    "static/js/787.5b943bb6.chunk.js": "/ReCycle-of-SA/static/js/787.5b943bb6.chunk.js",
-    "index.html": "/ReCycle-of-SA/index.html",
-    "main.fc8c6d48.css.map": "/ReCycle-of-SA/static/css/main.fc8c6d48.css.map",
-    "main.9660108b.js.map": "/ReCycle-of-SA/static/js/main.9660108b.js.map",
-    "787.5b943bb6.chunk.js.map": "/ReCycle-of-SA/static/js/787.5b943bb6.chunk.js.map"
+    "main.css": "/cats-cycles/static/css/main.fc8c6d48.css",
+    "main.js": "/cats-cycles/static/js/main.0d405655.js",
+    "static/js/787.5b943bb6.chunk.js": "/cats-cycles/static/js/787.5b943bb6.chunk.js",
+    "index.html": "/cats-cycles/index.html",
+    "main.fc8c6d48.css.map": "/cats-cycles/static/css/main.fc8c6d48.css.map",
+    "main.0d405655.js.map": "/cats-cycles/static/js/main.0d405655.js.map",
+    "787.5b943bb6.chunk.js.map": "/cats-cycles/static/js/787.5b943bb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc8c6d48.css",
-    "static/js/main.9660108b.js"
+    "static/js/main.0d405655.js"
   ]
 }
